@@ -1,0 +1,19 @@
+{
+  "name": "Pferdehof – Das Wettlaufspiel",
+  "short_name": "Pferdehof",
+  "description": "Kinderfreundliches Würfel-Wettlaufspiel: Bringt alle Pferde auf die Koppel, bevor der Affe das Gatter öffnet.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#8fd19e",
+  "theme_color": "#e85fa0",
+  "lang": "de",
+  "icons": [
+    { "src": "assets/icons/favicon-16.png", "sizes": "16x16", "type": "image/png" },
+    { "src": "assets/icons/favicon-32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
